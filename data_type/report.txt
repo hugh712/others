@@ -1,0 +1,42 @@
+********************Interger***************************
+ziseof("int")=4
+ziseof("int*")=8
+ziseof("unsigned int")=4
+ziseof("unsigned int*")=8
+
+ziseof("short int")=2
+ziseof("short int*")=8
+ziseof("unsigned short int")=2
+ziseof("unsigned short int*")=8
+
+ziseof("long int")=8
+ziseof("long int*")=8
+ziseof("unsigned long int")=8
+ziseof("unsigned long int*")=8
+
+ziseof("short")=2
+ziseof("short*")=8
+ziseof("unsigned short")=2
+ziseof("unsigned short*")=8
+
+ziseof("long")=8
+ziseof("long*")=8
+ziseof("unsigned long")=8
+ziseof("unsigned long*")=8
+
+********************Single Precision***************************
+ziseof("float")=4
+ziseof("float*")=8
+
+********************Double Precision***************************
+ziseof("double")=8
+ziseof("double*")=8
+ziseof("long double")=16
+ziseof("long double*")=8
+
+********************Character***************************
+ziseof("char")=1
+ziseof("char*")=8
+ziseof("unsigned char")=1
+ziseof("unsigned char")=8
+
